@@ -62,4 +62,4 @@ Created a detailed PDF report summarizing insights and a presentation using Gamm
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+   https://github.com/devansh771/Customer_Shopping_Behavior_Analysis-
